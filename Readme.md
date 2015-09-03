@@ -1,11 +1,13 @@
 
-# each
+# compat-each
 
   Array / object / string iteration utility.
 
+  [component-each](https://github.com/component/each) forked for complete Duo and Browserify compatibility.
+
 ## Installation
 
-    $ component install component/each
+    $ npm install compat-each
 
 ## API
 
@@ -15,7 +17,7 @@
 
 ```js
 each([1,2,3], function(num, i){
-  
+
 })
 ```
 
@@ -33,7 +35,7 @@ each([1,2,3], function(num, i){
 
 ```js
 each(conf, function(key, val){
-  
+
 })
 ```
 
@@ -41,7 +43,7 @@ each(conf, function(key, val){
 
 ```js
 each(collection, function(val, i){
-  
+
 })
 ```
 
@@ -51,7 +53,7 @@ each(collection, function(val, i){
 
 ```js
 each('hello', function(c, i){
-  
+
 })
 ```
 

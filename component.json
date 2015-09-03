@@ -1,8 +1,8 @@
 {
-  "name": "each",
-  "repo": "component/each",
+  "name": "compat-each",
+  "repo": "kvnneff/compat-each",
   "description": "Array / object / string iteration utility",
-  "version": "0.2.6",
+  "version": "1.0.0",
   "keywords": [
     "object",
     "string",

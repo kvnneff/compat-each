@@ -1,6 +1,6 @@
 {
-  "name": "component-each",
-  "version": "0.2.6",
+  "name": "compat-each",
+  "version": "1.0.0",
   "description": "Array / object / string iteration utility",
   "dependencies": {
     "component-type": "1.0.0",
@@ -18,8 +18,11 @@
       "each/index.js": "index.js"
     }
   },
+  "scripts": {
+    "test": "make test"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/component/each.git"
+    "url": "https://github.com/kvnenff/compat-each.git"
   }
 }

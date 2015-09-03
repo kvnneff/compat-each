@@ -1,3 +1,7 @@
+1.0.0 / 2015-09-03
+==================
+
+ * fork to ensure proper Duo and Browserify compatibility
 
 0.2.5 / 2014-07-07
 ==================
@@ -9,7 +13,7 @@
 
   * update "to-function" to v2.0.5
 
-0.2.3 / 2014-03-04 
+0.2.3 / 2014-03-04
 ==================
 
   * cmp: set components versions. bump @0.2.3
